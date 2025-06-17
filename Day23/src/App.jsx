@@ -1,7 +1,7 @@
 import { useState } from "react";
 
 import "./App.css";
-import UserComponent from "./components/userComponent";
+import UserComponent from "./components/UserComponent";
 import PostComponent from "./components/PostComponent";
 import QuoteBox from "./components/QuoteBox";
 import UserList from "./components/UserLists";
